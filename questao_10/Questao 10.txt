@@ -1,0 +1,4 @@
+Resposta:
+Com as respostas obtidas no programa criado, cheguei a conclusão de que a 
+variável int ocupa 4 bytes, e não 2 bytes como indicado na questão.
+As demais ocupam os bytes indicados na questão.

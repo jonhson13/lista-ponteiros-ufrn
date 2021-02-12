@@ -1,0 +1,2 @@
+Expressões ilegais:
+i = (*&)j;

@@ -1,0 +1,11 @@
+Respostas:
+p = mat + 1: É válida, o ponteiro p recebeu o endereço do 2° elemento do vetor mat.
+
+p = mat++: Não é válida, pois o operador ++ é a mesma coisa que "mat = mat + 1", 
+           e não é possível armazenar o endereço do vetor "mat" no próprio vetor mat.
+
+p = ++mat: Não é válida, pois funciona do mesmo jeito que a p = mat++, a diferença é que
+           o incremento é feito antes de passar a variável.
+
+x = (*mat)++: É válida, pois a variável x do tipo int está recebendo o conteúdo que está no 1°
+              elemento do vetor mat, que é inteiro.

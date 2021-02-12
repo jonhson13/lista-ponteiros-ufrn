@@ -1,0 +1,2 @@
+resposta: ffe 7 5 15 9
+ps: ffe é 4094 em hexadecimal(%x)

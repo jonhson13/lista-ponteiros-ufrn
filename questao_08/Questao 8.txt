@@ -1,0 +1,3 @@
+Resposta:
+O primeiro programa imprime os elementos contidos no vetor "vet".
+o segundo programa imprime os endereços de memória dos elementos contidos no vetor "vet".

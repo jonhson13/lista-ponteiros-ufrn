@@ -1,0 +1,1 @@
+Resposta: *(pulo + 2)

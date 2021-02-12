@@ -1,0 +1,4 @@
+p == &i a resposta é: true
+*p - *q a resposta é: -2
+**&q a resposta é: 3
+3 - *p/(*q) + 7 a resposta é: 10

@@ -1,0 +1,10 @@
+Resposta:
+
+aloha[2] = value; É válido
+scanf("%f", &aloha); É válido
+aloha = value"; Não é válido
+printf("%f", aloha); É válido
+coisas[4][4] = aloha[3]; É válido
+coisas[5] = aloha; Não é válido
+pf = value; Não é válido
+pf = aloha; É válido

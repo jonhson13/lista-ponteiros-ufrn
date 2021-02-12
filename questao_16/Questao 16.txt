@@ -1,0 +1,5 @@
+Resposta:
+Após testar os 2 programas com a função "glock()" da biblioteca <time.h>,
+obtive valores em milissegundos muito próximos entre os 2 programas,
+em alguns teste o 1° sendo maior, em outros sendo menor, logo
+os 2 programas têm praticamente o mesmo tempo de execução.
